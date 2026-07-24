@@ -74,8 +74,11 @@ gws cloudidentity <resource> <method> [flags]
 
 ### policies
 
+  - `create` — Create a policy.
+  - `delete` — Delete a policy.
   - `get` — Get a policy.
   - `list` — List policies.
+  - `patch` — Update a policy.
 
 ## Discovering Commands
 
